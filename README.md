@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**roydonGuo/roydonGuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## hi,it`s roydon`s repository
+## Welcome to your visit
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### introduction:
+
+- 😊roydon: 2000/8/Zhengzhou
+- 🏫university: Zhongyuan University of Technology
+- 🌤️current: student study in colloge
+
+- 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
+- ✨mysite: [https://roydon.xyz](https://roydon.xyz)
+
+![](https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif)
+
+
+- 🌱 I’m currently learning docker and so on...
+
+- 
