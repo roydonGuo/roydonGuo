@@ -1,9 +1,7 @@
 
 
-## hi,it`s roydon`s repository
+## hi,its `roydon`s repository
 ## Welcome to your visit
-
-### introduction:
 
 - 😊roydon: 2000/8/Zhengzhou
 - 🏫university: Zhongyuan University of Technology
@@ -17,4 +15,3 @@
 
 - 🌱 I’m currently learning docker and so on...
 
-- 
