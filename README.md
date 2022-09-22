@@ -1,6 +1,6 @@
 
 
-## hi,its <font style="color:pink">roydon</font>'s repository
+## hi,its <font style="color:pink">`roydon`</font>'s repository
 ## Welcome to your visit
 
 - 😊roydon: 2000/8/Zhengzhou
@@ -10,7 +10,9 @@
 - 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
 - ✨mysite: [https://roydon.xyz](https://roydon.xyz)
 
-![](https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif)
+
+
+![]([https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif]#pic_center)
 
 
 - 🌱 I’m currently learning docker and so on...
