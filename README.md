@@ -10,7 +10,7 @@
 - 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
 - ✨mysite: [https://roydon.xyz](https://roydon.xyz)
 
-<div align=center><img src="图片路径](https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif"></div>
+<div align=center><img src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif"></div>
 
 
 ![](https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif#pic_center)
