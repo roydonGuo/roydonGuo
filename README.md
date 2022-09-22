@@ -13,8 +13,5 @@
 <div align=right><img src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif"></div>
 
 
-<--![](https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif#pic_center)-->
-
-
 - 🌱 I’m currently learning docker and so on...
 
