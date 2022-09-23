@@ -5,7 +5,7 @@
 
 - 😊roydon: 2000/8/Zhengzhou
 - 🏫university: Zhongyuan University of Technology
-- 🌤️current: student study in colloge
+- 🌤️current: student study in university
 
 - 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
 - ✨mysite: [https://roydon.xyz](https://roydon.xyz)
