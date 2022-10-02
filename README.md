@@ -35,15 +35,8 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring)](https://github.com/roydonGuo/MyBlog-Spring)
 <br><br><br>
-    <div>
-        <div class="stats" style="width: 48%;display: inline-block;">
-            ![Minori-ty's github
-            stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
-        </div>
-        <div class="languages" style="width: 48%;display: inline-block;">
+            ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
             ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
-        </div>
-    </div>
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
