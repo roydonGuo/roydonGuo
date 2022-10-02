@@ -2,13 +2,7 @@
 
 ## hi,its <font style="color:pink">`roydon`</font>'s repository
 
-![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
-
-***
-
 <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
-
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## 个人开发工程师—roydon
@@ -40,6 +34,10 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring)](https://github.com/roydonGuo/MyBlog-Spring)
 <br><br><br>
+
+
+![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
 
 ### Github 活跃度
 
