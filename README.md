@@ -38,7 +38,7 @@
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring&theme=jolly )](https://github.com/roydonGuo/MyBlog-Spring)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Reggie&theme=jolly )](https://github.com/roydonGuo/Reggie)
+<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Reggie&theme=jolly )](https://github.com/roydonGuo/Reggie) -->
 <br><br><br>
 ![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
  <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
