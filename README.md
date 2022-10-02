@@ -13,7 +13,7 @@
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=vue)
 ***
 
-<img align=right height="80" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
+<img align=right height="100" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
@@ -23,7 +23,7 @@
 
 ### **社交主页：**
 
- <img align="right" alt="GIF" src="C:\Users\31330\AppData\Local\Temp\Temp1_Minori-ty-main.zip\Minori-ty-main\images\code.gif" width="430" height="100%" />
+ <img align="right" alt="GIF" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/code.gif" width="430" height="100%" />
 
 
 -   <a href="https://blog.csdn.net/m0_51390535"><code><img height="20" width="50" src="https://img1.imgtp.com/2022/09/01/LDZpWZLe.gif"></code></a>：CSDN作者，发表了 60 余篇技术文章。
