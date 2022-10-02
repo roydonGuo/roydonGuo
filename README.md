@@ -36,11 +36,11 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring)](https://github.com/roydonGuo/MyBlog-Spring)
 <br><br><br>
     <div>
-        <div style="width: 48%;display: inline-block;">
+        <div class="stats" style="width: 48%;display: inline-block;">
             ![Minori-ty's github
             stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
         </div>
-        <div style="width: 48%;display: inline-block;">
+        <div class="languages" style="width: 48%;display: inline-block;">
             ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
         </div>
     </div>
