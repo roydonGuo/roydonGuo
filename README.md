@@ -42,13 +42,12 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Reggie&theme=jolly )](https://github.com/roydonGuo/Reggie)
 <br><br><br>
 ![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
+ <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
 
 ![roydon's csdn stats](https://stats.justsong.cn/api/csdn?id=m0_51390535&theme=dark&border_radius=20%)
 
 <!-- github stats card -->
 
- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
- 
 
 ### Github 活跃度
 
