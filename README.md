@@ -13,9 +13,6 @@
 - 🏫university: Zhongyuan University of Technology
 - 🌤️current: a junior study in university
 
-- 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
-- ✨mysite: [https://roydon.xyz](https://roydon.xyz)
-
 - 🌱 I’m currently learning docker and so on...
 
 ### **社交主页：**
