@@ -36,10 +36,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
 ### 开源项目
 
-<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
+
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring)](https://github.com/roydonGuo/MyBlog-Spring)
 <br><br><br>
-            ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
+ ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
             
 ### Github 活跃度
 
