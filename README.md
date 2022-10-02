@@ -9,7 +9,7 @@
 ## 个人开发工程师—roydon
 
 热爱分享、热爱技术。喜欢参与一些开源项目的讨论。
-<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
+<!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 - 😊roydon: 2000/8/Zhengzhou
 - 🏫university: Zhongyuan University of Technology
 - 🌤️current: a junior study in university
