@@ -3,7 +3,7 @@
 
 <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
 
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=rule34">
 
 ## 个人开发工程师—roydon
 
