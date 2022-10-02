@@ -42,10 +42,10 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Reggie&theme=jolly )](https://github.com/roydonGuo/Reggie)
 <br><br><br>
 ### Github Stats
-<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
+
 <!-- github stats card -->
  ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
-            
+ <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
