@@ -54,6 +54,11 @@
 <a href="https://www.docker.com"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/docker.png"></code></a>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark&border_radius=20%)
+
+### 开发中...
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=gcb1120&repo=google2022&theme=codeSTACKr)](https://github.com/gcb1120/google2022) 
+
 ### 开源项目
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring&theme=jolly )](https://github.com/roydonGuo/MyBlog-Spring)
@@ -61,6 +66,7 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=jsBorn&theme=jolly )](https://github.com/roydonGuo/jsBorn) 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Student-Manage-CSharp&theme=jolly )](https://github.com/roydonGuo/Student-Manage-CSharp) 
 <br><br><br>
+
 ![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
  <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
 
