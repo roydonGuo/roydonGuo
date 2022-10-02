@@ -29,7 +29,8 @@
 ### **技术栈:**
 #### **· 后端**
 <a href=""><code><img height="20" src="https://img1.imgtp.com/2022/10/02/A2ZpBwZX.png"></code></a>
-<a href="https://www.java.com/zh-CN/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/I3HCszKv.png"></code></a>
+<a href="https://www.java.com/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/I3HCszKv.png"></code></a>
+<a href=""><code><img height="20" src="https://img1.imgtp.com/2022/10/02/hEBYTdXk.png"></code></a>
 <a href="https://www.mysql.com/downloads/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/YsVJrMCs.png"></code></a>
 <a href="https://redis.com/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/pS1n2PgQ.png"></code></a>
 <a href="https://www.python.org/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/TDHpOt1b.png"></code></a>
@@ -44,6 +45,7 @@
 <a href="https://cn.vuejs.org/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/61x2dHvC.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/JWBP0UhQ.png"></code></a>
 #### **· 服务端**
+<a href=""><code><img height="20" src="https://img1.imgtp.com/2022/10/02/OObOs84V.png"></code></a>
 <a href="https://nginx.org/en/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/ImXejug5.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/docker.png"></code></a>
 
