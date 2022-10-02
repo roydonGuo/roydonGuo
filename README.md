@@ -40,7 +40,7 @@
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring)](https://github.com/roydonGuo/MyBlog-Spring)
 <br><br><br>
- ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=onedark)
+ ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave)
             
 ### Github 活跃度
 
