@@ -1,6 +1,7 @@
 
-
 ## hi,its <font style="color:pink">`roydon`</font>'s repository
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
 <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
 
