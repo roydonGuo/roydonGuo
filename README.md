@@ -1,14 +1,6 @@
 
 
 ## hi,its <font style="color:pink">`roydon`</font>'s repository
-- 😊roydon: 2000/8/Zhengzhou
-- 🏫university: Zhongyuan University of Technology
-- 🌤️current: a junior study in university
-
-- 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
-- ✨mysite: [https://roydon.xyz](https://roydon.xyz)
-
-- 🌱 I’m currently learning docker and so on...
 
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
@@ -22,6 +14,14 @@
 ## 个人开发工程师—roydon
 
 热爱分享、热爱技术。喜欢参与一些开源项目的讨论。
+- 😊roydon: 2000/8/Zhengzhou
+- 🏫university: Zhongyuan University of Technology
+- 🌤️current: a junior study in university
+
+- 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
+- ✨mysite: [https://roydon.xyz](https://roydon.xyz)
+
+- 🌱 I’m currently learning docker and so on...
 
 ### **社交主页：**
 
