@@ -30,13 +30,14 @@
 <a href="https://go.dev/"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/docker.png"></code></a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
 ### 开源项目
 
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring)](https://github.com/roydonGuo/MyBlog-Spring)
 <br><br><br>
             ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
-            ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
+            
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
