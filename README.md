@@ -1,8 +1,6 @@
 
 ## hi,its <font style="color:pink">`roydon`</font>'s repository
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
 <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
@@ -53,5 +51,5 @@
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
-
+![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo&left_color=black&right_color=blue)
 
