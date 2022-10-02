@@ -47,7 +47,7 @@
             
 ### Github 活跃度
 
-[![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&border_radius=20%)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
