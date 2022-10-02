@@ -12,7 +12,7 @@
 - 😊roydon: 2000/8/Zhengzhou
 - 🏫university: Zhongyuan University of Technology
 - 🌤️current: a junior study in university
-
+<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
 - 🔅myblog: [https://blog.csdn.net](https://blog.csdn.net/m0_51390535)
 - ✨mysite: [https://roydon.xyz](https://roydon.xyz)
 
