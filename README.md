@@ -3,8 +3,7 @@
 ## hi,its <font style="color:pink">`roydon`</font>'s repository
 
 <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
-<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif">
-<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
+
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## 个人开发工程师—roydon
@@ -20,14 +19,16 @@
 - 🌱 I’m currently learning docker and so on...
 
 ### **社交主页：**
+<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif">
 
- <img align="right" alt="GIF" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/code.gif" width="200" height="100%" />
+<!--  <img align="right" alt="GIF" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/code.gif" width="200" height="100%" /> -->
 
 
 -   <a href="https://blog.csdn.net/m0_51390535"><code><img height="20" width="50" src="https://img1.imgtp.com/2022/09/01/LDZpWZLe.gif"></code></a>：CSDN作者，发表了 60 余篇技术文章。
 
 ### **技术栈:**
 
+<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
 <a href="https://v3.cn.vuejs.org"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/vue.png"></code></a>
 <a href="https://go.dev/"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/golang.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/docker.png"></code></a>
