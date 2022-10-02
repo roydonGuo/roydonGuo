@@ -38,8 +38,8 @@
 ### 开源项目
 
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring)](https://github.com/roydonGuo/MyBlog-Spring)
-[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Reggie)](https://github.com/roydonGuo/Reggie)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring&theme=synthwave)](https://github.com/roydonGuo/MyBlog-Spring)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Reggie&theme=synthwave)](https://github.com/roydonGuo/Reggie)
 <br><br><br>
 <!-- github stats card -->
  ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
