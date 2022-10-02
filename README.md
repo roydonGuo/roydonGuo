@@ -43,10 +43,10 @@
 ### Github Stats
 
 <!-- github stats card -->
- ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
+ ![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
  <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
  
-https://stats.justsong.cn/api/csdn?id=vczh
+![roydon's csdn stats](https://stats.justsong.cn/api/csdn?id=m0_51390535)
 ### Github 活跃度
 
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
