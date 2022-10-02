@@ -14,7 +14,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6)
 ***
 
-<img align=right height="100" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
+<img align=right height="120" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
 
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
