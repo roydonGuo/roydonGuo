@@ -29,6 +29,8 @@
 ### **技术栈:**
 #### **· 后端**
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/A2ZpBwZX.png"></code></a>
+<a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/l2pbKZDd.png"></code></a>
+<a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/RZc0AAwI.png"></code></a>
 <a href="https://www.java.com/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/I3HCszKv.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/hEBYTdXk.png"></code></a>
 <a href="https://www.mysql.com/downloads/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/YsVJrMCs.png"></code></a>
@@ -47,9 +49,15 @@
 <a href="https://cn.vuejs.org/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/61x2dHvC.png"></code></a>
 <a href="https://reactjs.org/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/JWBP0UhQ.png"></code></a>
 
+<a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/lHdOtbhl.png"></code></a>
+<a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/OtWsqTzL.png"></code></a>
+<a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/85iySYu5.png"></code></a>
+
 #### **· 服务端**
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/OObOs84V.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/DdUo8FVk.png"></code></a>
+<a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/r5x9uqdR.png"></code></a>
+<a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/PjQzbubJ.png"></code></a>
 <a href="https://nginx.org/en/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/ImXejug5.png"></code></a>
 <a href="https://www.docker.com"><code><img height="20" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/docker.png"></code></a>
 
