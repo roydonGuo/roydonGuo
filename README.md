@@ -51,5 +51,5 @@
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
-![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo&left_color=black&right_color=blue)
+![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo.Reggie&left_color=black&right_color=blue)
 
