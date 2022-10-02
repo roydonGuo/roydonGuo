@@ -3,6 +3,8 @@
 ## hi,its <font style="color:pink">`roydon`</font>'s repository
 
 <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
+<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif">
+<img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
 <img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34">
 
 ## 个人开发工程师—roydon
