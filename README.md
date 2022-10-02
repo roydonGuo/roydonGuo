@@ -11,6 +11,7 @@
 - 🌱 I’m currently learning docker and so on...
 
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=vue)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6)
 ***
 
 <img align=right height="100" width="70" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
@@ -44,6 +45,6 @@
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
+
 
