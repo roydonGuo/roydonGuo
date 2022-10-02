@@ -39,7 +39,7 @@
  <div style="width: 50%">
 ![Minori-ty's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=tokyonight)
 </div>
- <div style="width: 50%"
+ <div style="width: 50%">
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark)
  </div>
 </div>
