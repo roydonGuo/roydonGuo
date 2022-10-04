@@ -14,7 +14,7 @@
 - 🏫university: Zhongyuan University of Technology
 - 🌤️current: a junior study in university
 
-- 🌱growing： I’m currently learning docker and so on...
+- 🌱growing： I’m currently learning python and so on...
 
 ### **社交主页：**
 
