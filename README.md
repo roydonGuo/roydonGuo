@@ -6,7 +6,7 @@
 <img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=rule34">
 
 ## 个人开发工程师—roydon
-<img align="left" height="40" width="40"  src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
+<img align="left" height="25" width="25"  src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
 热爱技术、热爱记录、热爱分享。喜欢参与一些开源项目的讨论。爱好minecraft
 <!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 
