@@ -1,12 +1,13 @@
 
-## hi,its <font style="color:pink">`roydon`</font>'s repository
 
-<img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
+## hi,its <font style="color:pink">`roydon`</font>'s repository
 
 <img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=rule34">
 
+
 ## 个人开发工程师—roydon
-<img align="left" height="25" width="25"  src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
+
+<img align="left" height="23" width="23"  src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
 > 热爱技术、热爱记录、热爱分享。喜欢参与一些开源项目的讨论。爱好minecraft
 <!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 
@@ -18,16 +19,17 @@
 
 ### **社交主页：**
 
-
 <!--  <img align="right" alt="GIF" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/code.gif" width="200" height="100%" /> -->
 
 - <a href="https://blog.csdn.net/m0_51390535"><code><img height="30" width="55" src="https://img-home.csdnimg.cn/images/20201124032511.png"></code></a>：CSDN作者，发表了 60 余篇技术文章。
 - <a href="https://roydon.xyz"><code><img height="25" width="25" src="https://img1.imgtp.com/2022/10/02/ucq89GhN.png"></code></a>：本人搭建的博客，发表了 30 余篇精选专业性技术文章。
 
-
-<img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif">
+***
 
 ### **技术栈:**
+
+<img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
+
 #### **· 后端**
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/A2ZpBwZX.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/l2pbKZDd.png"></code></a>
@@ -64,7 +66,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark&border_radius=20%)
 
+***
+
 ### 开发中...
+
+<img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif">
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gcb1120&repo=google2022&theme=codeSTACKr)](https://github.com/gcb1120/google2022) 
 
@@ -76,6 +82,8 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Student-Manage-CSharp&theme=jolly )](https://github.com/roydonGuo/Student-Manage-CSharp) 
 <br><br><br>
 
+***
+
 ![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
  <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
 
@@ -83,6 +91,7 @@
 
 <!-- github stats card -->
 
+***
 
 ### Github 活跃度
 
@@ -90,5 +99,9 @@
 
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
-![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo.Reggie&left_color=black&right_color=blue)
+<!-- ![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo.Reggie&left_color=black&right_color=blue) -->
+
+***
+
+
 
