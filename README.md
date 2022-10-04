@@ -22,7 +22,7 @@
 <!--  <img align="right" alt="GIF" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/code.gif" width="200" height="100%" /> -->
 
 - <a href="https://blog.csdn.net/m0_51390535"><code><img height="30" width="55" src="https://img-home.csdnimg.cn/images/20201124032511.png"></code></a>：CSDN作者，发表了 60 余篇技术文章。
-- <a href="https://roydon.xyz"><code><img height="25" width="25" src="https://img1.imgtp.com/2022/10/02/ucq89GhN.png"></code></a>：本人搭建的博客，发表了 30 余篇精选专业性技术文章。
+- <a href="https://roydon.xyz"><code><img height="25" width="25" src="https://img1.imgtp.com/2022/10/02/ucq89GhN.png"></code></a>：本人博客，发表了 30 余篇精选专业性技术文章。
 
 ***
 
