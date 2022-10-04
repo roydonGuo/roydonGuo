@@ -7,7 +7,7 @@
 
 ## 个人开发工程师—roydon
 热爱技术、热爱记录、热爱分享。喜欢参与一些开源项目的讨论。爱好minecraft
-<img align="left" src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
+<img align="left" height="50" width="50"  src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
 <!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 - 😊roydon: 2000/8/Zhengzhou
 - 🏫university: Zhongyuan University of Technology
