@@ -106,4 +106,4 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
 <!-- ![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo.Reggie&left_color=black&right_color=blue) -->
 
-<img align="center" height="77" width="100%"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg">
+<img align="center" height="77" width="100%" style="border-radius: 10px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg">
