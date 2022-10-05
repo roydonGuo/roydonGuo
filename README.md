@@ -9,7 +9,7 @@
 
 <img align="left" height="40" width="40"  src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
 
-热爱技术、热爱记录、热爱积累、热爱经历、热爱分享。喜欢参与一些开源项目的讨论。 爱好minecraft
+热爱技术、热爱记录、热爱积累、热爱经历、热爱分享。喜欢参与一些开源项目的讨论。 热爱Minecraft
 <!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 
 - 😊roydon: 2000/8/Zhengzhou
