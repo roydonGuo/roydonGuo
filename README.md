@@ -18,7 +18,7 @@
 
 <!-- - 🌱growing： I’m currently learning python and so on...-->
 
-### **社交页：**
+### **社交页**
 
 <!--  <img align="right" alt="GIF" src="https://github.com/roydonGuo/roydonGuo/blob/main/images/code.gif" width="200" height="100%" /> -->
 
