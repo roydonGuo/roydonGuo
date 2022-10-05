@@ -1,6 +1,6 @@
 
 
-## 🔅hi,its <font style="color:pink">`roydon`</font>'s repository
+## 🔅hi,it's <font style="color:pink">`roydon`</font>'s repository
 
 <img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=rule34">
 
@@ -34,7 +34,7 @@
 
 <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
 
-#### **· 后端**
+#### **- 后端**
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/A2ZpBwZX.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/l2pbKZDd.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/RZc0AAwI.png"></code></a>
@@ -47,7 +47,7 @@
 <a href="https://go.dev/"><code><img height="20" src="https://img1.imgtp.com/2022/10/04/HL37C52t.png"></code></a>
 <a href="https://baomidou.com/pages/24112f/"><code><img height="20" src="https://img1.imgtp.com/2022/10/03/ZYsa1MpW.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/awpBwJLA.png"></code></a>
-#### **· 前端**
+#### **- 前端**
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/x2zOdyMi.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/6OcEDlzP.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/PCii39ly.png"></code></a>
@@ -60,7 +60,7 @@
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/lHdOtbhl.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/OtWsqTzL.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/85iySYu5.png"></code></a>
-#### **· 服务端**
+#### **- 服务端**
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/OObOs84V.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/DdUo8FVk.png"></code></a>
 <a href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/r5x9uqdR.png"></code></a>
