@@ -2,7 +2,7 @@
 
 ## 🔅hi,it's <font style="color:pink">`roydon`</font>'s repository
 
-<img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=rule34">
+<img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=asoul">
 
 
 ## 个人开发者—『roydon』
