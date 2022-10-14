@@ -75,7 +75,7 @@
 
 ### 开发中...
 
-<img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif">
+<!-- <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif"> -->
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gcb1120&repo=google2022&theme=codeSTACKr)](https://github.com/gcb1120/google2022) 
 
