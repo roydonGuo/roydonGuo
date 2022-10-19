@@ -37,7 +37,7 @@
 
 <!-- ![roydon's csdn stats](https://stats.justsong.cn/api/csdn?id=m0_51390535&theme=dark&border_radius=20%) -->
 <!-- 贪吃蛇代码贡献图 -->
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/anzhiyu-c/anzhiyu-c/assets/github-contribution-grid-snake.svg" /></div> -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/roydonGuo/roydonGuo/assets/github-contribution-grid-snake.svg" /></div>
 
 
 ***
