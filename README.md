@@ -1,6 +1,6 @@
 
 
-##### 🔅hi,it's <font style="color:pink">`roydon`</font>'s repository
+<!-- ##### 🔅hi,it's <font style="color:pink">`roydon`</font>'s repository -->
 
 <!-- 动态打字效果 -->
 <h1 align="center">
@@ -9,14 +9,14 @@
 	</a>
 </h1>
 
+<!-- 访客数统计 -->
 <img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=asoul">
-
 
 ### 个人开发者—『roydon』
 
 <img align="left" height="40" width="40"  src="https://img1.imgtp.com/2022/10/04/mVM52JjW.png">
 
-热爱技术、热爱记录、热爱积累、热爱经历、热爱分享。喜欢参与一些开源项目的讨论。 热爱Minecraft
+热爱技术、热爱记录、热爱积累、热爱经历、热爱分享。
 <!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 
 <!-- - 😊roydon: 2000/8/Zhengzhou -->
@@ -34,18 +34,18 @@
 - <a target="_blank" href="https://roydon.xyz"><code><img height="23" width="23" src="https://img1.imgtp.com/2022/10/02/ucq89GhN.png"></code></a>：本人博客，发表了 30 余篇精选专业性技术文章。
 - <a target="_blank" href="https://blog.csdn.net/m0_51390535"><code><img height="30" width="56" src="https://img-home.csdnimg.cn/images/20201124032511.png"></code></a>：CSDN作者，发表了 60 余篇技术文章。
 
-
+<!-- csdn统计 -->
 <!-- ![roydon's csdn stats](https://stats.justsong.cn/api/csdn?id=m0_51390535&theme=dark&border_radius=20%) -->
+
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/roydonGuo/roydonGuo/assets/github-contribution-grid-snake.svg" /></div>
 
-
 ***
-
 
 ### **技术栈**
 
-<img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
+<!-- 甘雨 -->
+<img align=right height="160" width="80" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
 
 #### **- 后端**
 <a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/A2ZpBwZX.png"></code></a>
@@ -82,14 +82,17 @@
 <a target="_blank" href="https://nginx.org/en/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/ImXejug5.png"></code></a>
 <a target="_blank" href="https://www.docker.com"><code><img height="20" src="https://img1.imgtp.com/2022/10/04/ul0MT5BI.png"></code></a>
 
+<!-- 使用语言统计 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark&border_radius=20%)
-
+![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
+ 
 ***
 
 ### 开发中...
 
 <!-- <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif"> -->
-
+ <img align=right height="100" width="50" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
+ 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gcb1120&repo=google2022&theme=codeSTACKr)](https://github.com/gcb1120/google2022) 
 
 ### 开源项目
@@ -99,16 +102,6 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=jsBorn&theme=jolly )](https://github.com/roydonGuo/jsBorn) 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Student-Manage-CSharp&theme=jolly )](https://github.com/roydonGuo/Student-Manage-CSharp) 
 <br><br><br>
-
-***
-
-### Github Stats
-
-![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
- <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
-
-
-<!-- github stats card -->
 
 ***
 
