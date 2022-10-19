@@ -129,6 +129,13 @@
 <!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/roydonGuo/roydonGuo@main/base_metrics.svg" alt="base metrics"/></div>
 <br> -->
 
+<!-- github个人信息 -->
+<div align="center">
+
+![Metrics](https://metrics.lecoq.io/roydonGuo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
+
+</div>
+
 <!-- GitHub奖杯🏆 -->
 <div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=roydonGuo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
 <br>
