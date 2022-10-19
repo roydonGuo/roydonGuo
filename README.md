@@ -139,7 +139,7 @@
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&radius=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<img align="center" height="70" width="100%" style="border-radius: 10px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg">
+<img align="center" height="80" width="100%" style="border-radius: 10px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg">
 
 
 
