@@ -1,5 +1,8 @@
 
 
+<div align="center"><img src="https://cdn.cbd.int/anzhiyu-assets@1.0.11/image/common/github-info/personal-homepage-banner.jpg" /></div>
+
+
 <!-- ##### 🔅hi,it's <font style="color:pink">`roydon`</font>'s repository -->
 
 <!-- 动态打字效果 -->
@@ -114,15 +117,17 @@
 <!-- ![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo.Reggie&left_color=black&right_color=blue) -->
 
 <!-- 连续提交代码天数记录 -->
-<div align="center">
-	
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roydonGuo&theme=dracula&hide_border=true&border_radius=6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
-	
-</div>
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roydonGuo&theme=dracula&hide_border=true&border_radius=6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) -->
 
-<!-- metrics 基础资料 -->
-<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/roydonGuo/roydonGuo@main/base_metrics.svg" alt="base metrics"/></div>
-<br> -->
+<p align="center">
+  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roydonGuo&theme=dracula&hide_border=true" />
+  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/right-wing.png" />
+</p>
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=roydonGuo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br>
 
 <!-- github个人信息 -->
 <div align="center">
@@ -130,10 +135,6 @@
 ![Metrics](https://metrics.lecoq.io/roydonGuo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 </div>
-
-<!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=roydonGuo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-<br>
 
 <!-- github活跃度 -->
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&radius=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
