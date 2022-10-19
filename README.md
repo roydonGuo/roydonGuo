@@ -84,7 +84,6 @@
 
 <!-- 使用语言统计 -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=8&theme=dark&border_radius=20%)
-![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
  
 ***
 
@@ -102,6 +101,12 @@
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=jsBorn&theme=jolly )](https://github.com/roydonGuo/jsBorn) 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Student-Manage-CSharp&theme=jolly )](https://github.com/roydonGuo/Student-Manage-CSharp) 
 <br><br><br>
+
+<div align="center">
+
+![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
+
+</div>
 
 ***
 
