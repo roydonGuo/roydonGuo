@@ -83,7 +83,7 @@
 <a target="_blank" href="https://www.docker.com"><code><img height="20" src="https://img1.imgtp.com/2022/10/04/ul0MT5BI.png"></code></a>
 
 <!-- 使用语言统计 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=6&theme=dark&border_radius=20%)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=8&theme=dark&border_radius=20%)
 ![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
  
 ***
