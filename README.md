@@ -120,4 +120,23 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
 <!-- ![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo.Reggie&left_color=black&right_color=blue) -->
 
+<!-- 连续提交代码天数记录 -->
+<div align="center">
+	
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roydonGuo&theme=dracula&hide_border=true&border_radius=6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
+	
+</div>
+
+<!-- metrics 基础资料 -->
+<!-- <div align="center"><img src="https://cdn.jsdelivr.net/gh/roydonGuo/roydonGuo@main/base_metrics.svg" alt="base metrics"/></div>
+<br> -->
+
+<!-- GitHub奖杯🏆 -->
+<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=roydonGuo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<br>
+
+
 <img align="center" height="77" width="100%" style="border-radius: 10px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg">
+
+
+
