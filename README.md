@@ -5,7 +5,7 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
 	<a href="https://roydon.xyz/">
-		<img src="https://readme-typing-svg.herokuapp.com/?color=pink&lines=System.out.println(%22Hello%2C%20World%22);welcome!&center=true&size=20">
+		<img src="https://readme-typing-svg.herokuapp.com/?color=pink&lines=System.out.println(%22Hello%2C%20World%22);console.log(%22welcome!%22)&center=true&size=20">
 	</a>
 </h1>
 
