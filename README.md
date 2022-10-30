@@ -23,8 +23,8 @@
 <!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 
 <!-- - 😊roydon: 2000/8/Zhengzhou -->
-- 🏫university: Zhongyuan University of Technology
-- 🌤️current: a junior study in university
+<!-- - 🏫university: Zhongyuan University of Technology -->
+<!-- - 🌤️current: a junior study in university -->
 
 ***
 
