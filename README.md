@@ -45,7 +45,7 @@
 ### **技术栈**
 
 <!-- 甘雨 -->
-<img align=right height="160" width="80" src="https://img1.imgtp.com/2022/09/01/IVKUXjNX.gif">
+<img align=right height="160" width="80" src="https://img1.imgtp.com/2022/11/09/8fuqASjC.gif">
 
 #### **- 后端**
 <a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/A2ZpBwZX.png"></code></a>
@@ -90,7 +90,8 @@
 ### 开发中...
 
 <!-- <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif"> -->
- <img align=right height="100" width="50" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif">
+
+ <img align=right height="100" width="50" src="https://img1.imgtp.com/2022/11/09/7ulXby4j.gif">
  
 [![](https://github-readme-stats.vercel.app/api/pin/?username=gcb1120&repo=google2022&theme=codeSTACKr)](https://github.com/gcb1120/google2022) 
 
