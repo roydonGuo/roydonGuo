@@ -70,7 +70,7 @@
 <a target="_blank" href="http://nodejs.cn/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/soeDCDOG.png"></code></a>
 <a target="_blank" href="https://cn.vuejs.org/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/61x2dHvC.png"></code></a>
 <a target="_blank" href="https://element.eleme.cn/#/zh-CN/component/layout"><code><img height="20" src="https://img1.imgtp.com/2022/10/04/TKMeuKLW.png"></code></a>
-<a target="_blank" href="https://vant-contrib.gitee.io/vant/#/zh-CN"><code><img height="20" src="https://img1.imgtp.com/2022/07/20/tKzpivXX.png"></code></a>
+<a target="_blank" href="https://vant-contrib.gitee.io/vant/#/zh-CN"><code><img height="20" src="https://fastly.jsdelivr.net/npm/@vant/assets/logo.png"></code></a>
 <a target="_blank" href="https://reactjs.org/"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/JWBP0UhQ.png"></code></a>
 <a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/lHdOtbhl.png"></code></a>
 <a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/10/02/OtWsqTzL.png"></code></a>
