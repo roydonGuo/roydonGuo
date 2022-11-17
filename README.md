@@ -147,5 +147,5 @@
 
 
 <!-- nahida -->
-<img align=center height="400" width="100%" src="https://bu.dusays.com/2022/11/17/637629dace570.jpg">
+<img align=center height="300" width="100%" src="https://bu.dusays.com/2022/11/17/637629dace570.jpg">
 
