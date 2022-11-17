@@ -143,9 +143,9 @@
 [![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&radius=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<!-- <img align="center" height="80" width="100%" style="border-radius: 10px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg"> -->
+<!-- <img align="center" height="80" width="100%" style="border-radius: 16px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg"> -->
 
 
 <!-- nahida -->
-<img align=center height="300" width="100%" src="https://bu.dusays.com/2022/11/17/637629dace570.jpg">
+<img style="border-radius: 16px" align=center height="300" width="100%" src="https://bu.dusays.com/2022/11/17/637629dace570.jpg">
 
