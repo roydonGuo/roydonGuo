@@ -12,19 +12,17 @@
 <!-- 访客数统计 -->
 <img align="right" src="https://count.getloli.com/get/@:roydonGuo?theme=asoul">
 
-### 个人开发者 —『roydon』
+<!--### 个人开发者 —『roydon』-->
 
 <!-- 苦力怕png -->
-<img align="left" height="23" width="23"  src="https://img1.imgtp.com/2022/11/17/ZdeWKprk.png">
+<!--<img align="left" height="23" width="23"  src="https://img1.imgtp.com/2022/11/17/ZdeWKprk.png">-->
 
-热爱技术、热爱记录、热爱积累、热爱经历、热爱分享。
+<!-- 热爱技术、热爱记录、热爱积累、热爱经历、热爱分享。 -->
 <!-- <img align=right height="130" width="70" src="https://img1.imgtp.com/2022/09/01/DGKaky7v.gif"> -->
 
 <!-- - 😊roydon: 2000/8/Zhengzhou -->
 <!-- - 🏫university: Zhongyuan University of Technology -->
 <!-- - 🌤️current: a junior study in university -->
-
-***
 
 <!-- - 🌱growing： I’m currently learning python and so on... -->
 
