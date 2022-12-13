@@ -33,7 +33,7 @@
 <!-- site -->
 - <a target="_blank" href="https://www.roydon.top/"><code><img height="23" width="23" src="https://bu.dusays.com/2022/11/17/6375f7ca6d26b.png"></code></a>：个人博客
 <!-- csdn -->
-- <a target="_blank" href="https://blog.csdn.net/m0_51390535"><code><img height="23" width="23" src="https://bu.dusays.com/2022/11/17/6375f3b3bb6f4.png"></code></a>：CSDN创作者
+- <a target="_blank" href="https://blog.csdn.net/m0_51390535"><code><img height="23" width="23" src="https://bu.dusays.com/2022/11/17/6375f3b3bb6f4.png"></code></a>：CSDN博客
 
 <!-- csdn统计 -->
 <!-- ![roydon's csdn stats](https://stats.justsong.cn/api/csdn?id=m0_51390535&theme=dark&border_radius=20%) -->
