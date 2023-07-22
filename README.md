@@ -83,26 +83,23 @@
   <img width="150" src="./images/right-wing.png" />
 </p>
 
-<!-- GitHub奖杯🏆 -->
+[//]: # (GitHub奖杯🏆)
 <div align="center">
-
 <img  src="https://github-profile-trophy.vercel.app/?username=roydonGuo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
-
 <br>
 
 [//]: # (代码统计)
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=roydonGuo&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&hide_title=true&hide_border=true&layout=compact&langs_count=8&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&hide_title=true&hide_border=true&layout=compact&langs_count=10&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </div>
 
-<!-- github个人信息 -->
+[//]: # (Metrics)
 <div align="center">
 
 ![Metrics](https://metrics.lecoq.io/roydonGuo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 </div>
 
-<!-- github活跃度 -->
-
+[//]: # (github活跃度)
 [//]: # ([![]&#40;https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&radius=20&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
