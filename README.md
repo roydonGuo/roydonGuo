@@ -50,62 +50,11 @@
 
 ### **技术栈**
 
-<!-- 甘雨 -->
-<!-- <img align=right height="160" width="80" src=""> -->
-<!-- hutao -->
-<img align=right height="320" width="200" src="https://img1.imgtp.com/2022/11/15/OuHebCmm.gif">
 
-#### **- 后端**
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/I8TME1tG.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/snN3tLQF.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/MkgKfZx6.png"></code></a>
-<a target="_blank" href="https://www.java.com/"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/XCGtqXif.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/b4Y8PQ7M.png"></code></a>
-<a target="_blank" href="https://www.mysql.com/downloads/"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/XGbW1FPY.png"></code></a>
-<a target="_blank" href="https://redis.com/"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/36FdmfDx.png"></code></a>
-<a target="_blank" href="https://www.python.org/"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/oumdqYYh.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/1tMHStI9.png"></code></a>
-<!-- <a target="_blank" href="https://go.dev/"><code><img height="20" src="https://img1.imgtp.com/2022/10/04/HL37C52t.png"></code></a> -->
-<!-- <a target="_blank" href="https://baomidou.com/pages/24112f/"><code><img height="20" src="https://img1.imgtp.com/2022/10/03/ZYsa1MpW.png"></code></a> -->
-<!-- <a target="_blank" href="https://spring.io/"><code><img height="20" src="https://img1.imgtp.com/2022/11/17/7c8aYZ3y.png"></code></a> -->
-#### **- 前端**
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f46d60ab0.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f46d2efec.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f46d78497.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f3b491846.png"></code></a>
-<a target="_blank" href="http://nodejs.cn/"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f3b57866a.png"></code></a>
-<a target="_blank" href="https://cn.vuejs.org/"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f46d18ebd.png"></code></a>
-<a target="_blank" href="https://reactjs.org/"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f3b698add.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f3b805b56.png"></code></a>
-<!-- <a target="_blank" href="https://element.eleme.cn/#/zh-CN/component/layout"><code><img height="20" src="https://img1.imgtp.com/2022/10/04/TKMeuKLW.png"></code></a> -->
-<!-- <a target="_blank" href="https://vant-contrib.gitee.io/vant/#/zh-CN"><code><img height="20" src="https://fastly.jsdelivr.net/npm/@vant/assets/logo.png"></code></a> -->
-#### **- 服务端**
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f3b4c048d.png"></code></a>
-<a target="_blank" href="javascript:void()"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f3b3c4c67.png"></code></a>
-<a target="_blank" href="https://nginx.org/en/"><code><img height="20" src="https://bu.dusays.com/2022/11/17/6375f3b56204d.png"></code></a>
-<a target="_blank" href="https://www.docker.com"><code><img height="20" src="https://bu.dusays.com/2022/11/19/637880ae3843c.png"></code></a>
 
-<!-- 使用语言统计 -->
-
-<!--  ![roydonGuo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&hide_border=true&langs_count=10) -->
- 
 ***
 
-<!-- ### 开发中... -->
 
-<!-- <img align=right height="200" width="100" src="https://img1.imgtp.com/2022/09/01/1XKEP0t0.gif"> -->
-
- <!-- <img align=right height="160" width="80" src="https://img1.imgtp.com/2022/11/09/7ulXby4j.gif">-->
- 
-<!-- [![](https://github-readme-stats.vercel.app/api/pin/?username=gcb1120&repo=google2022&theme=codeSTACKr)](https://github.com/gcb1120/google2022) -->
-
-<!-- ### 开源项目 
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=MyBlog-Spring&theme=jolly )](https://github.com/roydonGuo/MyBlog-Spring) 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Weatherforcast4&theme=jolly )](https://github.com/roydonGuo/Weatherforcast4) 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=jsBorn&theme=jolly )](https://github.com/roydonGuo/jsBorn) 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Student-Manage-CSharp&theme=jolly )](https://github.com/roydonGuo/Student-Manage-CSharp) 
-<br><br><br> -->
 
 <div align="center">
 
@@ -115,22 +64,25 @@
 </div>
 
 ***
+<div align="center">
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&langs_count=6) -->
-<!-- ![Github](https://visitor-badge.glitch.me/badge?page_id=roydonGuo.Reggie&left_color=black&right_color=blue) -->
+<img src="./images/lan-bar.jpg" />
 
-<!-- 连续提交代码天数记录 -->
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=roydonGuo&theme=dracula&hide_border=true&border_radius=6&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats) -->
-
+</div>
 <p align="center">
-  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/left-wing.png" />
+  <img width="150" src="./images/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roydonGuo&theme=dracula&hide_border=true" />
-  <img width="150" src="https://cdn.cbd.int/anzhiyu-assets/image/common/github-info/right-wing.png" />
+  <img width="150" src="./images/right-wing.png" />
 </p>
 
 <!-- GitHub奖杯🏆 -->
-<div align="center"><img  src="https://github-profile-trophy.vercel.app/?username=roydonGuo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+<div align="center">
+
+<img  src="https://github-profile-trophy.vercel.app/?username=roydonGuo&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /></div>
+
 <br>
+
+
 
 <!-- github个人信息 -->
 <div align="center">
@@ -142,11 +94,3 @@
 <!-- github活跃度 -->
 
 [//]: # ([![]&#40;https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&radius=20&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
-
-
-<!-- <img align="center" height="80" width="100%" style="border-radius: 16px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg"> -->
-
-
-<!-- nahida -->
-<img style="border-radius: 16px" align=center height="300" width="100%" src="https://bu.dusays.com/2022/11/17/637629dace570.jpg">
-
