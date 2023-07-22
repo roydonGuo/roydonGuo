@@ -75,14 +75,8 @@
 
 </td></tr></table>  
 
-<br/>
-
-***
-<div align="center">
-
-<img src="./images/lan-bar.jpg" />
-
-</div>
+[//]: # (lan-bar)
+<div align="center"><img src="./images/lan-bar.jpg" /></div>
 <p align="center">
   <img width="150" src="./images/left-wing.png" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roydonGuo&theme=dracula&hide_border=true" />
