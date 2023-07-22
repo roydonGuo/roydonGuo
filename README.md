@@ -86,8 +86,7 @@
 <a target="_blank" href="https://www.docker.com"><code><img height="20" src="https://bu.dusays.com/2022/11/19/637880ae3843c.png"></code></a>
 
 <!-- 使用语言统计 -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=8&theme=dark&border_radius=20%)
- 
+
 <!--  ![roydonGuo's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&hide_border=true&langs_count=10) -->
  
 ***
@@ -111,6 +110,7 @@
 <div align="center">
 
 ![roydon's github stats](https://github-readme-stats.vercel.app/api?username=roydonGuo&show_icons=true&theme=synthwave&border_radius=20%)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=roydonGuo&layout=compact&langs_count=8&theme=dark&border_radius=20%)
 
 </div>
 
@@ -140,7 +140,8 @@
 </div>
 
 <!-- github活跃度 -->
-[![](https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&radius=20)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[//]: # ([![]&#40;https://activity-graph.herokuapp.com/graph?username=roydonGuo&theme=dracula&radius=20&#41;]&#40;https://github.com/ashutosh00710/github-readme-activity-graph&#41;)
 
 
 <!-- <img align="center" height="80" width="100%" style="border-radius: 16px"  src="https://img1.imgtp.com/2022/10/04/q8yY3oE2.jpg"> -->
