@@ -26,8 +26,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/roydonGuo/roydonGuo/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 技术栈
-## swkill set
+## skill set
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
