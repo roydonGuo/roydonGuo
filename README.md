@@ -97,6 +97,17 @@
 ![Metrics](https://metrics.lecoq.io/roydonGuo?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 </div>
+<!-- ### 开源项目 -->
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=weather-forcast&theme=jolly )](https://github.com/roydonGuo/weather-forcast) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=ZutShop&theme=jolly )](https://github.com/roydonGuo/ZutShop) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=user-manage&theme=jolly )](https://github.com/roydonGuo/user-manage) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=Mybatis-Plus-Generator&theme=jolly )](https://github.com/roydonGuo/Mybatis-Plus-Generator) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=leetcode-practice&theme=jolly )](https://github.com/roydonGuo/leetcode-practice) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=community-android&theme=jolly )](https://github.com/roydonGuo/community-android) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=wallhaven-born&theme=jolly )](https://github.com/roydonGuo/wallhaven-born) 
+[![](https://github-readme-stats.vercel.app/api/pin/?username=roydonGuo&repo=node-born&theme=jolly )](https://github.com/roydonGuo/node-born) 
+<br>
 
 [//]: # (github活跃度)
 
