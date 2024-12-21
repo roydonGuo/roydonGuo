@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="https://www.roydon.asia/">
+    <a href="https://blog.roydon.site/">
         <img src="https://readme-typing-svg.herokuapp.com/?color=pink&lines=System.out.println(%22Hello%20World%22);console.log(%22https%3A%2F%2Fblog%2Eroydon%2Esite%22)&center=true&size=20">
     </a>
 </h1>
